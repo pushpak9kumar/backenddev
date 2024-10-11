@@ -4,16 +4,12 @@
   "description": "a basic app to deploy",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start":"node index.js"
   },
   "keywords": [
     "node",
     "backend"
   ],
   "author": "pushpak kumar",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.5",
-    "express": "^4.21.1"
-  }
+  "license": "ISC"
 }
